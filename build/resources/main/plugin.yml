@@ -1,0 +1,9 @@
+name: ChangeOnMove
+version: '1.0-SNAPSHOT'
+main: net.puf.changeonmove.ChangeOnMove
+api-version: '1.20'
+
+commands:
+  changeonmove:
+    description: Toggle block placement under players
+    usage: /changeonmove <block-type>
